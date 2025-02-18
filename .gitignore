@@ -26,3 +26,4 @@ replay_pid*
 /BridgesBase/dist/
 /BridgesBase/build/
 .DS_Store
+BridgesBase/src/bridgesbase/BridgesBase.java
